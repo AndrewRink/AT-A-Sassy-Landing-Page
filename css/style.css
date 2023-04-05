@@ -83,7 +83,6 @@ a {
 }
 .hero-content img {
   width: 45%;
-  filter: drop-shadow(30px 10px 4px #D6B25C);
 }
 .hero-content h1 {
   font-size: 40px;
